@@ -1,0 +1,33 @@
+{
+  "name": "crummyhashes",
+  "version": "0.1.0",
+  "description": "distributed content share via hashes and elective seeding",
+  "main": "index.js",
+  "dependencies": {
+    "crummydb": "^0.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "@the3rdc/netshout": "^1.4.2",
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crummyindeed/hashes.git"
+  },
+  "keywords": [
+    "hash",
+    "content",
+    "share"
+  ],
+  "author": "Cody Crumrine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crummyindeed/hashes/issues"
+  },
+  "homepage": "https://github.com/crummyindeed/hashes#readme"
+}

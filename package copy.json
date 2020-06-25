@@ -1,0 +1,36 @@
+{
+  "name": "@the3rdc/hayseed",
+  "version": "0.2.0",
+  "description": "share the burden of content storage via hash tables and elective seeding",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the3rdc/hayseed.git"
+  },
+  "keywords": [
+    "hash",
+    "dht",
+    "seed",
+    "distrubuted",
+    "content"
+  ],
+  "author": "Cody Crumrine",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/the3rdc/hayseed/issues"
+  },
+  "homepage": "https://github.com/the3rdc/hayseed#readme",
+  "dependencies": {
+    "crummydb": "^0.3.2",
+    "level": "^5.0.1"
+  },
+  "devDependencies": {
+    "@the3rdc/netshout": "^1.4.2",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "rimraf": "^2.6.3"
+  }
+}
