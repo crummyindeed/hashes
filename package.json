@@ -1,6 +1,6 @@
 {
   "name": "crummyhashes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "distributed content share via hashes and elective seeding",
   "main": "index.js",
   "dependencies": {
